@@ -29,3 +29,7 @@ desktop.ini
 /checkpoints/*
 !/checkpoints/*.yaml
 /outputs/
+
+# run time environments
+/WZF311/
+/hf_cache/
